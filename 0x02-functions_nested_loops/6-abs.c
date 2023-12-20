@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _abs - computes the absolute value of an integer
+ * _abs - computes the absolute value of an integer
  * Return: absolut value of number or 0
  * @c: number being computed
  */
