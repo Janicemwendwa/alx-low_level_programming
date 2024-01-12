@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints all arguments it receives
- * @arvc: number of arguments
+ * @argc: number of arguments
  * @argv: array of pointers to the arguments
  * Return: 0
  */
