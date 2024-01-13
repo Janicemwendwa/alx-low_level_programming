@@ -3,7 +3,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-
+/**
+ * _puts - function
+ * @s: argu
+ * Return: void
+ */
 void _puts(char *s)
 {
 	puts(s);

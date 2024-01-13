@@ -3,8 +3,12 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-
+/**
+ * _isalpha - function
+ * @c: argu
+ * Return: int
+ */
 int _isalpha(int c)
 {
-	return isalpha(c);
+	return (isalpha(c));
 }

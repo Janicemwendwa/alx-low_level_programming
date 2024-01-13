@@ -3,7 +3,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-
+/**
+ * _isupper - function
+ * @c: argu
+ * Return: int
+ */
 int _isupper(int c)
 {
 	return (c >= 'A' && c <= 'Z');
